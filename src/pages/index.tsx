@@ -7,7 +7,7 @@ export default function HomePage() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-background">
       <Helmet>
-        <title>Hello World</title>
+        <title>Hello AAB</title>
         <meta name="description" content="A simple Hello World page." />
       </Helmet>
       <motion.div
